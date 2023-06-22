@@ -1,0 +1,5 @@
+<mvc:View
+    xnlns="sap.m"
+    xnlns:mvc="sap.ui.core.mvc">
+    <Text text="Hello World"/>
+</mvc:View>        
